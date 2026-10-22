@@ -1,6 +1,8 @@
 
 # Godot 4.7
-# GDScript 
+# GDScript
+# Third person player controller
+# Framework with mobile prio and pc support.
 
 extends CharacterBody3D
 
