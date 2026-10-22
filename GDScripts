@@ -1,8 +1,16 @@
 
 # Godot 4.7
+# mobile rendering
 # GDScript
 # Third person player controller
-# Framework with mobile prio and pc support.
+# Framework for basic mobile game development under a MIT free to use license.
+
+
+
+# Logic:
+# Targeting a CharacterBody3D but I have experience making a Rigidbody3D player controller. We are building for mobile first hand so RigidBody3D player controller will be a side project.
+
+
 
 extends CharacterBody3D
 
