@@ -1,7 +1,8 @@
 
-	
-
+# Godot 4.7
 # GDScript 
+
+extends CharacterBody3D
 
 func _physics_process(
 
