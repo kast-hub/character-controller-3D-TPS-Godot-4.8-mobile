@@ -6,10 +6,25 @@
 
 extends CharacterBody3D
 
+  var input_vector := Input.get_vector("ui_left", "ui_right", "ui_up", "ui_down")
+
 func _physics_process(
 
 
-func
+func _unhandled_input(event: InputEvent) -> void
+  var is_camera_motion : (
+    event is InputEventScreenTouch and
+    Input 
+
+
+
+
+
+
+
+
+
+
  var
  if
 
